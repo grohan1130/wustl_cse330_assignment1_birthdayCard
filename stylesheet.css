@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(232, 242, 252);
+    color:navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pageTitle{
+    
+    text-align: center;
+}
+
+.card{
+    width: 550px;
+    height: 200px;
+    border: 3px solid navy;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 10px;
+    font-size: large;
+}
+
+.searchPortalBox{
+    width: 550px;
+    height: 200px;
+    border: 3px solid navy;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 10px;
+    font-size: large;
+}
+
+.searchBar{
+    text-align: center;
+
+}
+
+.link{
+    font-size: small;
+    text-align: right;
+}
